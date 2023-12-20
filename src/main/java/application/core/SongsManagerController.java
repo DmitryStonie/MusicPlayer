@@ -1,5 +1,7 @@
 package application.core;
 
+import application.model.Song;
+
 import java.util.ArrayList;
 
 public class SongsManagerController {

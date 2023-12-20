@@ -1,4 +1,4 @@
-package application.core;
+package application.model;
 
 import java.awt.*;
 import java.util.ArrayList;
